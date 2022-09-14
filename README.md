@@ -1,0 +1,2 @@
+# newsmodule
+modulo para noticias 
